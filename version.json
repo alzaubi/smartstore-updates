@@ -1,5 +1,6 @@
 {
-  "version": "9",
-  "url": "https://github.com/alzaubi/smartstore-updates/releases/download/v1.9/SmartStore-v1.9-Unified.apk",
-  "notes": "Initial release"
+  "versionCode": 12,
+  "versionName": "1.10",
+  "url": "https://github.com/alzaubi/smartstore-updates/releases/download/v1.10/SmartStore-v1.10-Unified.apk",
+  "notes": "SmartStore v1.10"
 }
