@@ -1,7 +1,7 @@
 {
-  "version": "15",
-  "versionCode": 15,
-  "versionName": "1.13",
-  "url": "https://github.com/alzaubi/smartstore-updates/releases/download/v1.13/SmartStore-1.13s.apk",
-  "notes": "SmartStore v1.13"
+  "version": "23",
+  "versionCode": 23,
+  "versionName": "1.21",
+  "url": "https://github.com/alzaubi/smartstore-updates/releases/download/v1.21/SmartStore-v1.21.apk",
+  "notes": "SmartStore v1.21 - adds WiFi Manager 4.3.0 to Tools"
 }
