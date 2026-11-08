@@ -1,7 +1,7 @@
 {
-  "version": "26",
-  "versionCode": 26,
-  "versionName": "1.24",
-  "url": "https://github.com/alzaubi/smartstore-updates/releases/download/v1.24/SmartStore-v1.24.apk",
-  "notes": "SmartStore v1.24 - removes the additional SmartLink tab password prompt and adds SmartSplit v6.10.5"
+  "version": "27",
+  "versionCode": 27,
+  "versionName": "1.25",
+  "url": "https://raw.githubusercontent.com/alzaubi/smartstore-updates/main/SmartStore-v1.25.apk",
+  "notes": "SmartStore v1.25 - fixes HTTP 504 app downloads with an automatic GitHub asset API fallback"
 }
